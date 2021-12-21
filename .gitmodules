@@ -1,0 +1,12 @@
+[submodule "find"]
+	path = find
+	url = https://github.com/lzkill/bsc-arbitrage-find.git
+[submodule "check"]
+	path = check
+	url = https://github.com/lzkill/bsc-arbitrage-check.git
+[submodule "confirm"]
+	path = confirm
+	url = https://github.com/lzkill/bsc-confirm.git
+[submodule "notify"]
+	path = notify
+	url = https://github.com/lzkill/bsc-notify.git
